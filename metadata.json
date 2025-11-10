@@ -1,8 +1,7 @@
 {
-    "uuid": "selfcarebot@ap0r",
-    "name": "Self-Care Bot",
-    "description": "Displays useful self-care messages",
-    "version": "0.0.1",
-    "prevent-decorations": false,
+    "uuid": "tinycarebot@ap0r",
+    "name": "Tinycarebot",
+    "description": "Displays useful self-care messages in the panel",
+    "version": "0.0.2",
     "author": "ap0r"
 }
