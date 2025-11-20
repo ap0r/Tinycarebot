@@ -10,7 +10,7 @@ Some messages encourage hydration, movement, stretching, posture, breathing, or 
 At any time, you can get a new message by clicking the applet. By default, Tinycarebot includes 116 positive, healthy messages, so you are sure to have variety.
 If you want to add, remove, or change a message just edit the `messages.json` file with your favorite text editor.
 
-### **How to install**
+### **How to install?**
 
  1. Download the files. 
  2. Go to `/home/your user name/.local/share/cinnamon/applets/` and create a folder named
@@ -20,7 +20,7 @@ If you want to add, remove, or change a message just edit the `messages.json` fi
 Once that is done, the applet should be available to add to any panel. 
 **Note:** It will look best on horizontal panels.
 
-### **Messages included with the current version**
+### **Messages included with the current version:**
 
 * Drink water 💧
 * Text a friend 🫶
